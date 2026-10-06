@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "date": "2026-10-06",
+  "size_mb": 0,
+  "min_android": "7.0",
+  "sha256": "",
+  "download_url": "https://github.com/vrlelamis-cloud/status-saver-site/releases/latest/download/StatusSaver.apk",
+  "min_supported_version": "1.0.0",
+  "publisher": "L'équipe Status Saver",
+  "contact_email": "",
+  "telegram_url": "",
+  "whatsapp_channel_url": "",
+  "history": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-06",
+      "notes": [
+        "Première version publique",
+        "Statuts WhatsApp et WhatsApp Business",
+        "Sauvegarde automatique, mode clair/sombre, code PIN"
+      ]
+    }
+  ]
+}
